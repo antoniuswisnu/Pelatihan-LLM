@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-text-splitters
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+bs4
+pypdf
+requests
